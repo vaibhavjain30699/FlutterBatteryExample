@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutterplugingg (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutterplugingg (from `.symlinks/plugins/flutterplugingg/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutterplugingg:
+    :path: ".symlinks/plugins/flutterplugingg/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutterplugingg: 84981af24caac183db4f356e2f029aff848b477e
+
+PODFILE CHECKSUM: 1b66dae606f75376c5f2135a8290850eeb09ae83
+
+COCOAPODS: 1.9.1
